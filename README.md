@@ -7,7 +7,7 @@ Specialized in Node.js ecosystems, cloud-native patterns, and high-performance s
 - Reduced operational costs by 70% 
 - Mentored 40+ developers in scalable design patterns
 
-🔧 Core: TypeScript, NestJS, React, AWS, GCP, Microservices, DDD, CQRS
+🔧 Core: TypeScript, NestJS, React, AWS, GCP, Microservices, DDD, CQRS </ br>
 📦 Sharing expertise through production-ready architectural templates
 <hr/>
 
