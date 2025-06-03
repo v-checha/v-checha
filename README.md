@@ -1,4 +1,14 @@
-Our Node.js team is a group of highly skilled and experienced developers who specialize in building high-performance, scalable applications using Node.js. We use the latest tools and technologies to create cutting-edge web and mobile applications, and our team is dedicated to delivering the highest quality work on time and within budget. Whether you need a simple web app or a complex enterprise-level solution, our Node.js team has the expertise to get the job done.
+Full-Stack Architect | 10+ Years | Scaling Systems from 0 to Millions
+
+Expert in designing resilient, maintainable architectures that grow with your business.
+Specialized in Node.js ecosystems, cloud-native patterns, and high-performance solutions.
+
+- Led architecture for 30+ production applications
+- Reduced operational costs by 70% 
+- Mentored 40+ developers in scalable design patterns
+
+🔧 Core: TypeScript, NestJS, React, AWS, GCP, Microservices, DDD, CQRS
+📦 Sharing expertise through production-ready architectural templates
 <hr/>
 
 <div class="stats" align="center">
