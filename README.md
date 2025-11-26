@@ -1,20 +1,15 @@
-Full-Stack Architect | 10+ Years | Scaling Systems from 0 to Millions
+## Hi, I'm Valerii
 
-Expert in designing resilient, maintainable architectures that grow with your business.
-Specialized in Node.js ecosystems, cloud-native patterns, and high-performance solutions.
+Backend developer. Architecture nerd. Based in Ukraine.
 
-- Led architecture for 30+ production applications
-- Reduced operational costs by 70% 
-- Mentored 40+ developers in scalable design patterns
+I've spent the last decade building Node.js applications and learning (often the hard way) what makes systems maintainable at scale. These days I focus on database architecture, API design, and helping teams avoid the mistakes I've already made.
 
-🔧 Core: TypeScript, NestJS, React, AWS, GCP, Microservices, DDD, CQRS </br>
-📦 Sharing expertise through production-ready architectural templates
-<hr/>
+**What I work with:** TypeScript · JavaScript · Node.js · Databases · AWS · GCP
 
-<div class="stats" align="center">
+---
 
-![Programming Gym's GitHub Stats](https://github-readme-stats.vercel.app/api?username=v-checha&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20) 
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v-checha&layout=compact&show_icons=true&theme=algolia&border_radius=20)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=v-checha&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
 </div>
