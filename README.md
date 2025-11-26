@@ -10,6 +10,6 @@ I've spent the last decade building Node.js applications and learning (often the
 
 <div align="center">
 
-![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=v-checha&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v-checha&theme=algolia))
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v-checha&theme=algolia)
 
 </div>
