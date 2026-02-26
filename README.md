@@ -10,6 +10,6 @@ I've spent the last decade building Node.js applications and learning (often the
 
 <div align="center">
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v-checha&theme=algolia)
+[![committers.top badge](https://user-badge.committers.top/ukraine/v-checha.svg)](https://user-badge.committers.top/ukraine/v-checha)
 
 </div>
