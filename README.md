@@ -1,11 +1,25 @@
-## Hi, I'm Valerii
+# Valerii Checha
 
-Backend developer. Architecture nerd. Based in Ukraine.
-I've spent the last decade building Node.js applications and learning (often the hard way) what makes systems maintainable at scale. 
+Head of Business Unit at Onix Systems. Senior Node.js engineer working on agentic systems and enterprise integrations.
 
-These days I focus on database architecture, API design, and bringing AI into production - agentic systems, RAG pipelines, and helping teams avoid the mistakes I've already made.
+## About
 
-**What I work with:** TypeScript · JavaScript · Node.js · Databases · AWS · GCP · LangChain · Mastra · MCP · Claude API
+I lead a delivery business unit at a Ukrainian IT outsourcing company serving US and EU clients, and I stay hands-on as an engineer. My work sits at the intersection of backend architecture, AI agentic tooling, and product delivery. I care about systems that are correct, observable, and maintainable, not buzzword-driven.
+
+- Backend and full-stack engineering with a Node.js core
+- Agentic systems and RAG pipelines (LangChain, MCP, Mastra, Claude API)
+- Enterprise integrations, multi-tenant SaaS, and data normalization
+
+## Current focus
+
+- Building AI-powered developer tooling with Claude Code, Cursor, and the Anthropic API
+- Agentic engineering patterns and multi-agent architectures
+- Healthcare integrations (SMART on FHIR, HL7v2, Epic EHR)
+
+
+## Connect
+
+- LinkedIn: https://www.linkedin.com/in/v-checha/
 
 ---
 
