@@ -24,7 +24,7 @@ I lead a delivery business unit at a Ukrainian IT outsourcing company serving US
 ---
 
 <div align="center">
-
-[![committers.top badge](https://user-badge.committers.top/ukraine/v-checha.svg)](https://user-badge.committers.top/ukraine/v-checha)
-
+  
+[![committers.top badge](https://user-badge.committers.top/ukraine_private/v-checha.svg)](https://user-badge.committers.top/ukraine_private/v-checha)
+  
 </div>
